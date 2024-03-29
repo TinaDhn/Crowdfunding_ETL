@@ -17,7 +17,7 @@ Loading: Cleaned data was stored and managed in an SQL database for further anal
 Visualization: Visualizations, including Entity Relationship Diagrams (ERD), were created to provide a clear representation of the data structure and relationships.
 Analysis: Various metrics such as crowdfunding success rates, pledged amounts, and geographic distribution were analyzed to identify trends and patterns.
 
-Sources of data
+Sources of data:
 Within Resources Folder:
 contacts.xlsx
 crowdfunding.xlsx
